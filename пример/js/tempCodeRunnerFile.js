@@ -1,0 +1,1 @@
+            tabsParent.addEventListener('click', (event) => {
